@@ -10,7 +10,7 @@ This is a sandbox for exploring Ximera.
 ```bash
 git add first.tex
 git commit -m 'Here I type a description of the edits'
-git push
+git push (This is optional)
 ```
 6. Build the HTML files with `xake bake`
 7. Publish your worksheet to ximera.osu.edu with `xake publish`
