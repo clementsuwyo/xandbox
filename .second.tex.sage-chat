@@ -1,4 +1,0 @@
-
-{"sender_id":"1bb45cfd-699f-41a6-91b8-e846312e1a64","date":"2016-07-25T18:21:53.960Z","event":"start_video","payload":{"room_id":3.5888930317014453e+22}}
-{"sender_id":"1bb45cfd-699f-41a6-91b8-e846312e1a64","date":"2016-07-25T18:21:54.871Z","event":"start_video","payload":{"room_id":5.278419177047908e+23}}
-{"sender_id":"1bb45cfd-699f-41a6-91b8-e846312e1a64","date":"2016-07-25T18:21:58.714Z","event":"stop_video","payload":{"room_id":5.278419177047908e+23}}
